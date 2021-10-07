@@ -19,6 +19,7 @@ Not: Bugün hariç, çünkü bugün hala entry girilebilir, veri toplamak anlaml
 1-Başlangıçtan itibaren her seferinde bir sonraki günü kontrol etmek çok uzun.
 Bunun yerine ekşideki sıra ile her bir sayfa bilgisayara kaydedilip, 
 sayfadaki tarihler tek tek parse edilerek iş yükü azaltılabilir. 
+
 2-Her sayfa başına gösterilen max entry limiti tarayıcı özelliklerine göre değişiyor.
 Şu an ekşisözlük sayfa başına 10 entry gösteriyor. Ama bir laptop ile 25 entry görülebiliyor.
 Muhtemelen HTTP headerlerı ile max limit artırılarak daha az istekle veriler toplanabilir. 
