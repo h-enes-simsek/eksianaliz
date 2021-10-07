@@ -12,30 +12,30 @@ entrylerin dolup taştığı iddia ediliyordu. Durumu matematiksel olarak incele
 
 genel korelasyon
 
-           entry    Change
+                      entry    Change
            
-entry   1.000000 -0.164385
+           entry   1.000000 -0.164385
 
-Change -0.164385  1.000000
+           Change -0.164385  1.000000
 
 
 
 pozitif değişim için korelasyon (bist100'ün sadece artıda kapandığı günler)
 
-           entry    Change
+                      entry    Change
            
-entry   1.000000  0.131958
+           entry   1.000000  0.131958
 
-Change  0.131958  1.000000
+           Change  0.131958  1.000000
 
 
 negatif değişim için korelasyon (bist100'ün sadece ekside kapandığı günler)
 
-           entry    Change
+                      entry    Change
            
-entry   1.000000 -0.283023
+           entry   1.000000 -0.283023
 
-Change -0.283023  1.000000
+           Change -0.283023  1.000000
 
 
 Bist100 kapanış yüzdelerine göre entry sayısı
