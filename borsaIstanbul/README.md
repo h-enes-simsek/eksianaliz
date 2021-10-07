@@ -10,7 +10,7 @@ entrylerin dolup taştığı iddia ediliyordu. Durumu matematiksel olarak incele
 
 ## Sonuçlar
 
-entry sayıları ve bist100'ün günlük yüzdesel günlük değişimi arasındaki korelasyon (pearson)
+entry sayıları ve bist100'ün günlük yüzdesel değişimi arasındaki korelasyon (pearson)
 
                       entry    Change
            
