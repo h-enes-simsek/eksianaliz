@@ -10,7 +10,7 @@ entrylerin dolup taştığı iddia ediliyordu. Durumu matematiksel olarak incele
 
 ## Sonuçlar
 
-genel korelasyon
+genel korelasyon (bist100)
 
                       entry    Change
            
