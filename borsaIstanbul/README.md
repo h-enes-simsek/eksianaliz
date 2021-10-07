@@ -41,3 +41,5 @@ negatif değişim için korelasyon (bist100'ün sadece ekside kapandığı günl
 Bist100 kapanış yüzdelerine göre entry sayısı
 
 ![plot](change-entry.png)
+
+Sonuç olarak bist100'ün ekside kapanması artıda kapanmasına göre daha çok yankı uyandırıyor diyebiliriz.
