@@ -1,7 +1,7 @@
 # Ekşi Analiz
 Ekşisözlükte yaptığım çeşitli veri analizlerini içeren repo. 
 
-## gunlereGoreEntrySayisi
+## Günlere göre entry sayısı
 Belirli bir başlıktaki entrylerin yazıldığı günlere göre dağılımını bulup csv formatında çıktı üreten program.
 
 ## Borsa İstanbul 
