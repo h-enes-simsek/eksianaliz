@@ -3,11 +3,16 @@ Ekşisözlükte, belirli bir başlıktaki entrylerin yazıldığı günlere gör
 
 ## Algoritma
 1-İlk entrynin yazıldığı günü bul.
+
 2-İlk entrynin yazıldığı günden itibaren bir artarak her bir gün yazılan entrylerin olduğu sayfaya git.
+
 örneğin: https://eksisozluk.com/borsa-istanbul--3559807?day=2021-10-03
 Not: Bugün hariç, çünkü bugün hala entry girilebilir, veri toplamak anlamlı olmayabilir.
+
 3-Toplam kaç sayfa olduğunu bul, tüm sayfalardaki entry sayılarını topla
+
 4-Her bir gün için toplam entry sayısını hesapla.
+
 5-Her günün ardından verileri bir csv dosyasına yaz (append)
 
 ## TODO
